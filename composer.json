@@ -8,5 +8,8 @@
 			"Models\\":"Models/",
 			"Core\\":"Core/"
 		}
+	},
+	"require": {
+		"twbs/bootstrap": "4.3.1"
 	}
 }
